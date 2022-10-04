@@ -1,2 +1,2 @@
 # dijkstra
-16/20 marks
+Completed an assignment in semester 2 to design and implement Dijsktra’s algorithm using an APQ (Adaptable Priority Queue) to maintain open vertices, with the APQ implemented using a binary heap. This was adapted to find the shortest path from any point A to any point B in a road map of Cork City and return this path.
